@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dhl-shipping-calculator\n"
+"POT-Creation-Date: 2025-03-03 11:23+0100\n"
+"PO-Revision-Date: 2025-03-03 11:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dhl-calc.php:77
+msgid "Nastavení DHL API"
+msgstr "Nastavení DHL API"
+
+#: dhl-calc.php:80
+msgid "DHL API Key"
+msgstr "DHL API Key"
+
+#: dhl-calc.php:89
+msgid "DHL API User"
+msgstr "DHL API User"
+
+#: dhl-calc.php:108
+msgid "O pluginu DHL Shipping Calculator"
+msgstr "O pluginu DHL Shipping Calculator"
+
+#: dhl-calc.php:109
+msgid "Plugin pro výpočet ceny přepravného přes DHL API."
+msgstr "Plugin pro výpočet ceny přepravného přes DHL API."
+
+#: dhl-calc.php:110
+msgid "Autor:"
+msgstr "Autor:"
+
+#: dhl-calc.php:111
+msgid "Verze:"
+msgstr "Verze:"
+
+#: dhl-calc.php:113
+msgid "API Dokumentace:"
+msgstr "API Dokumentace:"
+
+#: dhl-calc.php:114
+msgid "Pro podrobnější informace o API si prosím přečtěte:"
+msgstr "Pro podrobnější informace o API si prosím přečtěte:"
+
+#: dhl-calc.php:120
+msgid "Endpointy:"
+msgstr "Endpointy:"
+
+#: dhl-calc.php:122
+msgid "Testovací endpoint:"
+msgstr "Testovací endpoint:"
+
+#: dhl-calc.php:123
+msgid "Produkční endpoint:"
+msgstr "Produkční endpoint:"
+
+#: dhl-calc.php:135
+msgid "API Endpoint"
+msgstr "API Endpoint"
+
+#: dhl-calc.php:139
+msgid "Testovací endpoint (https://express.api.dhl.com/mydhlapi/test/rates)"
+msgstr "Testovací endpoint (https://express.api.dhl.com/mydhlapi/test/rates)"
+
+#: dhl-calc.php:144
+msgid "Produkční endpoint (https://express.api.dhl.com/mydhlapi/rates)"
+msgstr "Produkční endpoint (https://express.api.dhl.com/mydhlapi/rates)"
+
+#: dhl-calc.php:149
+msgid "Jazyk pluginu"
+msgstr "Jazyk pluginu"
+
+#: dhl-calc.php:152
+msgid "Automaticky (podle webu)"
+msgstr "Automaticky (podle webu)"
+
+#: dhl-calc.php:153
+msgid "Čeština"
+msgstr "Čeština"
+
+#: dhl-calc.php:154
+msgid "Angličtina"
+msgstr "Angličtina"
+
+#: dhl-calc.php:159
+msgid "Uložit nastavení"
+msgstr "Uložit nastavení"
+
+#: dhl-calc.php:169
+msgid "Údaje o odesilateli"
+msgstr "Údaje o odesilateli"
+
+#: dhl-calc.php:172
+msgid "Odesílací PSČ:"
+msgstr "Odesílací PSČ:"
+
+#: dhl-calc.php:176
+msgid "Odesílací město:"
+msgstr "Odesílací město:"
+
+#: dhl-calc.php:180
+msgid "Odesílací země (kód):"
+msgstr "Odesílací země (kód):"
+
+#: dhl-calc.php:181
+msgid "např. CZ"
+msgstr "např. CZ"
+
+#: dhl-calc.php:184 dhl-calc.php:204
+msgid "Adresní řádek 1:"
+msgstr "Adresní řádek 1:"
+
+#: dhl-calc.php:189
+msgid "Údaje o příjemci"
+msgstr "Údaje o příjemci"
+
+#: dhl-calc.php:192
+msgid "Cílové PSČ:"
+msgstr "Cílové PSČ:"
+
+#: dhl-calc.php:196
+msgid "Cílové město:"
+msgstr "Cílové město:"
+
+#: dhl-calc.php:200
+msgid "Cílová země (kód):"
+msgstr "Cílová země (kód):"
+
+#: dhl-calc.php:201
+msgid "např. DE"
+msgstr "např. DE"
+
+#: dhl-calc.php:209
+msgid "Údaje o zásilce"
+msgstr "Údaje o zásilce"
+
+#: dhl-calc.php:212
+msgid "Hmotnost (kg):"
+msgstr "Hmotnost (kg):"
+
+#: dhl-calc.php:216
+msgid "Délka (cm):"
+msgstr "Délka (cm):"
+
+#: dhl-calc.php:220
+msgid "Šířka (cm):"
+msgstr "Šířka (cm):"
+
+#: dhl-calc.php:224
+msgid "Výška (cm):"
+msgstr "Výška (cm):"
+
+#: dhl-calc.php:229
+msgid "Doplňkové údaje"
+msgstr "Doplňkové údaje"
+
+#: dhl-calc.php:232
+msgid "Deklarovaná hodnota:"
+msgstr "Deklarovaná hodnota:"
+
+#: dhl-calc.php:236
+msgid "Měna:"
+msgstr "Měna:"
+
+#: dhl-calc.php:248
+msgid "Zásilka podléhá celnímu řízení"
+msgstr "Zásilka podléhá celnímu řízení"
+
+#: dhl-calc.php:256
+msgid "Doručení následující pracovní den"
+msgstr "Doručení následující pracovní den"
+
+#: dhl-calc.php:262
+msgid "Spočítat přepravné"
+msgstr "Spočítat přepravné"
+
+#: dhl-calc.php:271
+msgid "Načítám data z DHL API..."
+msgstr "Načítám data z DHL API..."
+
+#: dhl-calc.php:287
+msgid "Nastala chyba při komunikaci s API."
+msgstr "Nastala chyba při komunikaci s API."
