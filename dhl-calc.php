@@ -12,6 +12,9 @@
  * Requires PHP: 7.2
  * License: GPL v3
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
+ * 
+ * Usage:
+ * In new wordpress page use shortcode [dhl_shipping_form] to display the form.
  *
  * API Documentation:
  * For more detailed information about the API, please read:
